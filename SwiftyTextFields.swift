@@ -1,6 +1,6 @@
 //
-//  SwiftyTextfields.swift
-//  SwiftyTextfields
+//  SwiftyTextFields.swift
+//  SwiftyTextFields
 //
 //  Created by Dimitrios Kalaitzidis on 18/12/2016.
 //  Copyright © 2016 Dimitrios Kalaitzidis. All rights reserved.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-@IBDesignable class SwiftyTextfields: UITextField{
+@IBDesignable class SwiftyTextFields: UITextField{
     
     @IBInspectable var cornerRadius: CGFloat = 0 {
         didSet {
